@@ -1,0 +1,6 @@
+- A VIP Champagne Hour
+- Live Music
+- Open Bar All Evening
+- Formal Dining (Chicken and Beef with a Vegetarian Option)
+- A Silent and Live Auction
+- FAAN-tastica Entertainment
