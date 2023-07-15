@@ -2,4 +2,4 @@
 - Event Location: Estancia Rosario is located near Hospital Del Rio
   - Google Map Coordinates: 424R+X8W, Cuenca
   - Phone: 098 386 6089
-- For additional information on sponsorship, tickets, and the auction, contact <span id='contact' user='info' domain='faanecuador.org'>Rosemary Rein</span>
+- For additional information on sponsorship, tickets, and the auction, contact [Rosemary Rein](mail-link)

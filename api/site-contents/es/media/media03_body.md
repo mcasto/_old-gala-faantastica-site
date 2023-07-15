@@ -1,0 +1,1 @@
+Hay una oportunidad para los amantes de los animales en Ecuador y en todo el mundo de ser parte de la Gala FAAN-tastica para ayudar a los perros maltratados, descuidados, abandonados y ancianos de Ecuador.

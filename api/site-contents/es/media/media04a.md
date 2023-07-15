@@ -1,0 +1,1 @@
+Si usted vive en Ecuador, asegúrese de conseguir sus boletos para el 7 de octubre temprano y únase a nosotros como patrocinador empresarial o individual. Además, considere hacer una donación a nuestra subasta silenciosa y en vivo.

@@ -1,0 +1,6 @@
+- Una hora VIP de champán
+- Música en directo
+- Barra libre toda la noche
+- Cena formal (pollo y ternera con opción vegetariana)
+- Subasta silenciosa y en vivo
+- Entretenimiento FAAN-tastica

@@ -1,1 +1,1 @@
-Complete this Auction Donation Form and/or <span id='contact_us' user='info' domain='faanecuador.org'>contact us</span>. A FAAN volunteer will coordinate your gift, including pick-up of the item or preparation of a gift certificate.
+Complete this Auction Donation Form and/or [contact us](mail-link). A FAAN volunteer will coordinate your gift, including pick-up of the item or preparation of a gift certificate.

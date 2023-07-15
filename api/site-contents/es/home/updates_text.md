@@ -1,0 +1,1 @@
+en el Evento Benéfico del Año en Cuenca para FAAN (Fundación Familia Amor Animal) Construyendo el Primer Refugio de Animales Estándar de EE.UU. en Ecuador y haciendo que Cuenca sea conocida como la "Ciudad que se preocupa" por el Bienestar Animal.

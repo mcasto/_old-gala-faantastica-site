@@ -13,4 +13,4 @@ This very special evening for the dogs of FAAN includes:
 - A Silent and Live Auction
 - FAAN-tastica Entertainment
 
-<span id='reserve-text' user='info' domain='faanecuador.org'>Reserve</span> your individual Tickets or Table of Eight.
+[Reserve](mail-link) your individual Tickets or Table of Eight.

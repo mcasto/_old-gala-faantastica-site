@@ -1,0 +1,3 @@
+- Esté atento a las actualizaciones sobre nuestra Música y Entretenimiento en Vivo
+- Cómo reservar sus entradas. Todas las entradas se pagan por adelantado con su preferencia de pago en efectivo, transferencia bancaria o tarjeta de crédito. Una vez recibida su reserva, le confirmaremos las entradas y las instrucciones de pago.
+- La vestimenta para la velada es formal (chaqueta/traje de sport para los caballeros, traje de noche para las damas).

@@ -1,0 +1,1 @@
+Reserve sus entradas individuales o mesa de ocho

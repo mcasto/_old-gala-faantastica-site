@@ -1,1 +1,1 @@
-<span id="contact" user="info" domain="faanecuador.org">Get in touch</span>
+[Get in touch](mail-link)

@@ -1,0 +1,1 @@
+GALA FAAN-tastica incluirá una hora de champán VIP, cena formal, barra libre toda la noche, música en vivo, una subasta silenciosa y en vivo, y sorpresas especiales FAAN-TASTICA. Las entradas cuestan 60 $ (85 $ para VIP).

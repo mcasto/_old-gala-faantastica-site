@@ -1,0 +1,3 @@
+- Las entradas para esta elegante velada cuestan 60 $ y 85 $ para la hora VIP del champán. Habrá barra libre durante toda la velada.
+- Las mesas son para ocho personas. Si desea reservar una mesa privada, comparta con nosotros el nombre y el tema de su mesa.
+- El plato principal de la noche incluye un plato de pollo y ternera; también hay disponible una opción vegetariana con su reserva.
