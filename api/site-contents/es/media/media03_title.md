@@ -1,1 +1,1 @@
-Las copresidentas de la Gala FAAN, Victory Lynne y Rosemary Rein toman nota
+Las copresidentas de la Gala FAAN, Victoria Lynne y Rosemary Rein toman nota

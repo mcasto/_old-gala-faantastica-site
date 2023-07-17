@@ -1,3 +1,3 @@
-- Tickets for this elegant evening are $60.00 and $85.00 for the VIP Champagne Hour. There is an open bar all evening.
-- Tables are for Eight. If you would like to reserve a private table, share with us a name and theme of your table.
+- Tickets for this elegant evening are $60.00 for Gala Admission or $85.00, which includes the additional VIP Champagne Hour.
+- Tables are for Eight. If you would like to reserve an Ambassador Table, share with us a name and theme of your Table. Ambassadors are gifted with their Table Centerpiece at the end of the evening.
 - The Entrée for the Evening includes a Chicken and Beef dish; a Vegetarian option is also available with your reservation.

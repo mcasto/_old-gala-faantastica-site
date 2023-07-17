@@ -1,1 +1,1 @@
-Todos nuestros Colaboradores en la Subasta serán promocionados en el programa y la revista de FAAN que destaca a aquellas empresas y personas que trabajan para que Cuenca sea conocida como la "Ciudad que se preocupa" por el Bienestar Animal.
+Todos nuestros Contribuyentes a la Subasta serán promocionados en el programa y la revista de FAAN que destaca a aquellas empresas y personas que trabajan para que Cuenca sea conocida como la "Ciudad que se preocupa" por el Bienestar Animal.

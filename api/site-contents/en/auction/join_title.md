@@ -1,1 +1,1 @@
-Join us and be a FAAN-atic!
+[Join us and be a FAAN-atic!](https://faanecuador.org)

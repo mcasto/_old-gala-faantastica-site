@@ -1,3 +1,3 @@
-- Esté atento a las actualizaciones sobre nuestra Música y Entretenimiento en Vivo
-- Cómo reservar sus entradas. Todas las entradas se pagan por adelantado con su preferencia de pago en efectivo, transferencia bancaria o tarjeta de crédito. Una vez recibida su reserva, le confirmaremos las entradas y las instrucciones de pago.
-- La vestimenta para la velada es formal (chaqueta/traje de sport para los caballeros, traje de noche para las damas).
+- Esté atento a las actualizaciones sobre nuestra música y entretenimiento en directo
+- Cómo reservar sus entradas. Todas las entradas se pagan por adelantado con su preferencia de pago en efectivo, transferencia bancaria o tarjeta de crédito. Una vez recibida su reserva, le confirmaremos las entradas y las instrucciones de pago. También puede solicitar sus entradas en línea [ahora](https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4) con tarjeta de crédito.
+- La vestimenta para la velada es formal (chaqueta/traje de sport para los caballeros, traje de noche para las damas)

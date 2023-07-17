@@ -1,3 +1,3 @@
 - Watch for updates on our Live Music and Entertainment
-- How to reserve your tickets. All tickets are pre-paid with your payment preference of cash, bank transfer, or credit card. Upon receipt of your reservation, we will confirm your tickets and payment instruction.
-- Dress for the Evening is Formal attire (Sport Jacket/Suits for gentelmen, Evening wear for Ladies)
+- How to reserve your tickets. All tickets are pre-paid with your payment preference of cash, bank transfer, or credit card. Upon receipt of your reservation, we will confirm your tickets and payment instruction. You can also order your tickets online [now](https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4) with a credit card.
+- Dress for the Evening is Formal attire (Sport Jacket/Suits for gentlemen, Evening wear for Ladies)

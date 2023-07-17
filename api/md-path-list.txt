@@ -92,6 +92,8 @@ C:\Users\agpsg\programming-projects\gala-faantastica\public\api/site-contents/en
 ||||||||||
 C:\Users\agpsg\programming-projects\gala-faantastica\public\api/site-contents/en/media/media04c.md
 ||||||||||
+C:\Users\agpsg\programming-projects\gala-faantastica\public\api/site-contents/en/media/media_bottom.md
+||||||||||
 C:\Users\agpsg\programming-projects\gala-faantastica\public\api/site-contents/en/tickets/header_event_date.md
 ||||||||||
 C:\Users\agpsg\programming-projects\gala-faantastica\public\api/site-contents/en/tickets/header_location.md

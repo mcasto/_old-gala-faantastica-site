@@ -1,1 +1,1 @@
-Reserve sus entradas individuales o mesa de ocho
+Consiga sus entradas individuales o conviértase en Embajador para una mesa de ocho personas

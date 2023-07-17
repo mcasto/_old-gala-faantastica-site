@@ -21,5 +21,7 @@ for ($i = 0; $i < count($translatedItems); $i++) {
     $filePath = $rootPath . explode("/en", $pathList[$i])[1];
     $path = dirname($filePath);
     if (!file_exists($filePath)) mkdir($path, 0777, true);
-    file_put_contents($filePath, $translatedItems[$i]);
+    $t = $translatedItems[$i];
+    $t = preg_replace("/\(enlace[^\)]+\)/", "(mail-link)", $t);
+    file_put_contents($filePath, $t);
 }
