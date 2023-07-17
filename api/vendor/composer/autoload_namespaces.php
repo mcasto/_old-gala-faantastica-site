@@ -6,5 +6,4 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'ChrisKonnertz\\DeepLy' => array($vendorDir . '/chriskonnertz/deeply/src'),
 );
