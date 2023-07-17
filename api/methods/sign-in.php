@@ -12,7 +12,6 @@ function signIn($db, $request, $util)
     $util->success(
         [
             'token' => $token,
-            'registrations' => $db->fetchAll("SELECT * FROM registrations"),
             'donations' => $db->fetchAll("SELECT * FROM donations")
         ]
     );

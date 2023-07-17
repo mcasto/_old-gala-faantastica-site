@@ -1,3 +1,3 @@
 SUBASTA PALOOZA
 
-    Todo lo que necesitas saber para convertirte en donante de una subasta
+    Todo lo que necesita saber para convertirse en donante de una subasta

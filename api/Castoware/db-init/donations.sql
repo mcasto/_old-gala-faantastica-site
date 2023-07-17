@@ -1,6 +1,14 @@
 CREATE TABLE donations (
     [id] INTEGER PRIMARY KEY AUTOINCREMENT,
     [name] text,
+    [business] text, 
+    [description] text,
     [email] text,
-    "value" real
-, date text, business text, description text, phone INTEGER, restrictions text, pickup text, create_certificate INTEGER, whatsapp integer);
+    [phone] text,
+    [whatsapp] integer
+    [item_value] real,
+    [restrictions] text, 
+    [pickup] text, 
+    [create_certificate] INTEGER,
+    [submitted_date] text
+);
