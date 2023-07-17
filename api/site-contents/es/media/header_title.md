@@ -1,3 +1,3 @@
-Gala FAAN-Tastica
+Gala FAAN-TASTICA
 
 Medios de comunicación

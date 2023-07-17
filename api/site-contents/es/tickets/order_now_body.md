@@ -1,1 +1,1 @@
-Puede pedir entradas individuales y nos aseguraremos de colocarle en una mesa divertida de FAAN-atics o reservar su propia mesa privada de ocho con privilegios de nombramiento.
+Puede pedir entradas individuales y nos aseguraremos de colocarle en una divertida mesa de FAAN-áticos o reservar su propia mesa privada de ocho con privilegios de nombre.

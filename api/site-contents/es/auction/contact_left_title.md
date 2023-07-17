@@ -1,1 +1,1 @@
-¡Gala FAAN-Tastica!
+¡Gala FAAN-TASTICA!

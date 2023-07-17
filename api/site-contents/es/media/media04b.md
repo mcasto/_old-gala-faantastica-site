@@ -1,1 +1,1 @@
-Para los amantes de los animales de cualquier parte del mundo, [únase a nosotros virtualmente](https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4) con su apoyo como Dog Parent o miembro del Círculo de Benefactores PAWS de FAAN.
+Para los amantes de los animales en cualquier parte del mundo, [únase a nosotros virtualmente](https://amicicannis1.ddock.gives/?givingPageId=0de68f40-2abb-47ab-a8b5-f7c53dffb1f7) con su apoyo como Padre de Perro o miembro del Círculo de Benefactores PAWS de FAAN.

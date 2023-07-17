@@ -7,6 +7,10 @@
 
 Estancia Rosaria
 
-## CÓDIGO DE VESTIMENTA:
+Puedes pedir entradas individuales, y nos aseguraremos de ubicarte en una divertida mesa de FAAN-áticos.
+O reserve su propia mesa privada de ocho con privilegios de nombre.
+[Póngase en contacto con Rosemary](mail-link) para organizar esto.
 
-Traje Formal o de Cóctel
+## CÓDIGO DE VESTIMENTA
+
+Traje formal o de cóctel

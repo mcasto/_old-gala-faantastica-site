@@ -1,3 +1,3 @@
-- Las entradas para esta elegante velada cuestan $60.00 para la admisión a la Gala o $85.00, que incluye la Hora del Champán VIP adicional.
-- Las mesas son para ocho personas. Si desea reservar una Mesa de Embajadores, comuníquenos el nombre y el tema de su Mesa. Los Embajadores recibirán un centro de mesa al final de la velada.
-- El entrante de la noche incluye un plato de pollo y otro de ternera; también hay disponible una opción vegetariana con su reserva.
+- El precio de las entradas para esta elegante velada es de 60 $ para la admisión a la Gala o de 85 $, que incluye la Hora del Champán VIP adicional.
+- Las mesas son para ocho personas. Si desea reservar una Mesa de Embajadores, comuníquenos el nombre y el tema de su mesa. Los Embajadores recibirán un centro de mesa al final de la velada.
+- El entrante de la velada incluye un plato de pollo y otro de ternera; también hay disponible una opción vegetariana con su reserva.

@@ -38,3 +38,4 @@ $contentList = (new Chain($output))
 
 file_put_contents(__DIR__ . '/md-path-list.txt', $pathList);
 file_put_contents(__DIR__ . '/md-content-list.txt', $contentList);
+touch(__DIR__ . '/md-translated-list.txt');

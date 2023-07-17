@@ -1,1 +1,1 @@
-[Infórmate](https://faanecuador.org) sobre el Proyecto de Acogida de la FAAN y conoce a qué contribuyen tus donativos.
+[Infórmate](https://faanecuador.org) sobre el Proyecto de Acogida de FAAN y conoce a qué contribuyen tus donativos.

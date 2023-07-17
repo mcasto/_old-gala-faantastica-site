@@ -64,6 +64,74 @@
             "install-path": "../altorouter/altorouter"
         },
         {
+            "name": "chriskonnertz/deeply",
+            "version": "v2.2.0",
+            "version_normalized": "2.2.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/chriskonnertz/DeepLy.git",
+                "reference": "5fa08b7c7e740626c2a08bbcf35cdbdde57249ff"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/chriskonnertz/DeepLy/zipball/5fa08b7c7e740626c2a08bbcf35cdbdde57249ff",
+                "reference": "5fa08b7c7e740626c2a08bbcf35cdbdde57249ff",
+                "shasum": ""
+            },
+            "require": {
+                "ext-curl": "*",
+                "php": ">=8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "9.*"
+            },
+            "time": "2023-07-06T14:00:18+00:00",
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "ChrisKonnertz\\DeepLy\\Integrations\\Laravel\\DeepLyServiceProvider"
+                    ],
+                    "aliases": {
+                        "DeepLy": "ChrisKonnertz\\DeepLy\\Integrations\\Laravel\\DeepLyFacade"
+                    }
+                }
+            },
+            "installation-source": "dist",
+            "autoload": {
+                "psr-0": {
+                    "ChrisKonnertz\\DeepLy": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Chris Konnertz"
+                }
+            ],
+            "description": "DeepLy is a PHP client for the DeepL.com translation API",
+            "keywords": [
+                "Neural",
+                "ai",
+                "api",
+                "client",
+                "deepl",
+                "deeply",
+                "language",
+                "library",
+                "translate",
+                "translation"
+            ],
+            "support": {
+                "issues": "https://github.com/chriskonnertz/DeepLy/issues",
+                "source": "https://github.com/chriskonnertz/DeepLy/tree/v2.2.0"
+            },
+            "install-path": "../chriskonnertz/deeply"
+        },
+        {
             "name": "cocur/chain",
             "version": "v0.9.0",
             "version_normalized": "0.9.0.0",
