@@ -3,6 +3,6 @@ CREATE TABLE contacts (
     [name] text,
     [email] text,
     [subject] text,
-    [message] integer
+    [message] integer,
     [submitted_date] text
 );
