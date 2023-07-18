@@ -19,7 +19,7 @@ $router->addRoutes([
   ['get', '/api/get-admin-data', 'getAdminData'],
   ['get', '/api/get-contents/[:language]', 'getContents'],
   ['post', '/api/sign-in', 'signIn'],
-  ['post', '/api/submit-donation', 'submitDonation']
+  ['post', '/api/submit-rec', 'submitRec']
 ]);
 
 $match = $router->match();
