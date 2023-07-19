@@ -4,6 +4,8 @@
 
 namespace Castoware;
 
+use Exception;
+
 class Sendgrid
 {
   private $key, $cipher;
@@ -44,16 +46,16 @@ class Sendgrid
     return $this->decrypt(file_get_contents($keyFile));
   }
 
-  function sendEmail($config, $replyTo, $replyToName, $to, $toName, $subject, $body, $contactID)
+  function sendEmail($replyTo, $replyToName, $to, $toName, $subject, $body)
   {
     $email = new \SendGrid\Mail\Mail();
-    $email->setFrom('contacts@castoware.com', 'CastoWare Development');
+    $email->setFrom('gala-faantastica@castoware.com', 'Gala Faantastica Site');
     $email->setReplyTo($replyTo, $replyToName);
     $email->setSubject($subject);
     $email->addTo($to, $toName);
     $email->addContent('text/html', $body);
 
-    $sendgrid = new \SendGrid($this->apiKey($config->keyFile));
+    $sendgrid = new \SendGrid($this->apiKey(__DIR__ . '/sendgrid.key'));
 
     try {
       $response = $sendgrid->send($email);
@@ -64,19 +66,11 @@ class Sendgrid
         'body' => $response->body()
       ];
 
-      $util = new util();
 
-      $config->db->update('contacts')
-        ->where('_id')->is($contactID)
-        ->set(['send_status' => json_encode(['success' => $sendStatus])]);
-
-      $util->success($sendStatus);
+      return $sendStatus;
     } catch (Exception $e) {
-      $config->db->update('contacts')
-        ->where('_id')->is($contactID)
-        ->set(['send_status' => json_encode(['fail' => $e->getMessage()])]);
-
-      $util->fail($e->getMessage());
+      error_log(print_r(['sendFail' => ['message' => $e->getMessage(), 'from' => $replyToName . " <" . $replyTo . ">", 'subject' => $subject, 'body' => $body, 'attempted' => date("Y-m-d")]], true));
+      return ['statusCode' => false, 'data' => ['message' => $e->getMessage(), 'from' => $replyToName . " <" . $replyTo . ">", 'subject' => $subject, 'body' => $body, 'attempted' => date("Y-m-d")]];
     }
   }
 }
