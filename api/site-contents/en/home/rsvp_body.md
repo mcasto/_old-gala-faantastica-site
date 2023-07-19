@@ -1,5 +1,6 @@
 Estancia Rosario
-6:30 - 10:30
+6:30 - 7:30 VIP Champagne Hour
+7:30 - 10:30 Gala Admission
 Dress: Elegant Evening Attire or Cocktail Attire
 
 Join us as a Sponsor, Ambassador, Auction Donor and Guest for GALA FAAN-TASTICA

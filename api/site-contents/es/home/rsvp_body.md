@@ -1,5 +1,6 @@
 Estancia Rosario
-6:30 - 10:30
+6:30 - 7:30 VIP hora de champán
+7:30 - 10:30 Entrada a la gala
 Vestimenta Elegante Traje de Noche o Cóctel
 
 Únase a nosotros como Patrocinador, Embajador, Donante de Subasta e Invitado para GALA FAAN-TASTICA
