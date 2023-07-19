@@ -1,1 +1,1 @@
-[Ponte en contacto](mail-link)
+[Ponte en contacto](/contact)

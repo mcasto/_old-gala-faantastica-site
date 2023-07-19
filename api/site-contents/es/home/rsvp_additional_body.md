@@ -1,1 +1,1 @@
-Contacto [Rosemary Rein](mail-link)
+Contacto [Rosemary Rein](/contact)

@@ -16,4 +16,4 @@ Esta noche tan especial para los perros de FAAN incluye:
 
 [Reserve](https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4) sus Entradas individuales o Mesa de Ocho.
 
-Para el pago de entradas o donaciones a través de transferencia bancaria o recogida en efectivo en Cuenca, o información sobre la gala, póngase en contacto con [Rosemary](mail-link).
+Para el pago de entradas o donaciones a través de transferencia bancaria o recogida en efectivo en Cuenca, o información sobre la gala, póngase en contacto con [Rosemary](/contact).

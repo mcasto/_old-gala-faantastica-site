@@ -16,4 +16,4 @@ This very special evening for the dogs of FAAN includes:
 
 [Reserve](https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4) your individual Tickets or Table of Eight.
 
-For ticket or donation payment through bank transfer or cash-pick up in Cuenca, or information about the gala, contact [Rosemary](mail-link).
+For ticket or donation payment through bank transfer or cash-pick up in Cuenca, or information about the gala, contact [Rosemary](/contact).

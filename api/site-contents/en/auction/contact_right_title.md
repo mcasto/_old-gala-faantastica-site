@@ -1,1 +1,1 @@
-[Get in touch](mail-link)
+[Get in touch](/contact)
