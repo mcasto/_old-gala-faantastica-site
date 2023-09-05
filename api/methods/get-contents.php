@@ -17,6 +17,5 @@ function getContents($db, $request, $util)
     return $ret;
   }, $dirList);
 
-
   $util->success($pages);
 }
