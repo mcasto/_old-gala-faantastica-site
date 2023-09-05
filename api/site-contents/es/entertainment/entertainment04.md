@@ -1,7 +1,7 @@
 ### Banda para después de cenar
 
 <div class='pre-list'>
-_Cuarteto Du+_ de Cuenca
+<em>Cuarteto Du+</em> de Cuenca
 </div>
 
   - Tatiana Dumas (Flute)
