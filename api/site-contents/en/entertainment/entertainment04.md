@@ -1,7 +1,7 @@
 ### After Dinner Band
 
 <div class='pre-list'>
-Cuenca's own _Du+ Quartet_
+Cuenca's own <em>Du+ Quartet</em>
 </div>
 
   - Tatiana Dumas (Flute)
