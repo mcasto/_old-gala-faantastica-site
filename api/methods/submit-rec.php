@@ -29,7 +29,7 @@ function submitRec($db, $request, $util)
   $response = $sg->sendEmail($replyTo, $replyToName, $to, $toName, $subject, $body);
 
   $rec['send_status'] = json_encode($response, JSON_PRETTY_PRINT);
-  $rec['submitted_date'] = date("Y-m-d H:i:s");
+  $rec['date'] = date("Y-m-d H:i:s");
 
   $db->query("INSERT INTO %n %v", $table, $rec);
   $util->success($request->body);
