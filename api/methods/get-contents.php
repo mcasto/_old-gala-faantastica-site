@@ -14,8 +14,15 @@ function getContents($db, $request, $util)
       $ret[$name] = file_get_contents($element);
     }
 
+    if (isset($ret['image_path'])) {
+      $imageList = glob($_SERVER['DOCUMENT_ROOT'] . $ret['image_path'] . "/*.{jpg,jpeg,png}", GLOB_BRACE);
+      $ret['image_list'] = array_map(function ($image) use ($ret) {
+        return $ret['image_path'] . '/' . basename($image);
+      }, $imageList);
+    }
+
     return $ret;
   }, $dirList);
 
-  $util->success($pages);
+  $util->success($pages, true);
 }

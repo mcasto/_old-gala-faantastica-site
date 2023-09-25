@@ -17,8 +17,10 @@ require_once(__DIR__ . '/methods/index.php');
 
 $router->addRoutes([
   ['get', '/api/get-admin-data', 'getAdminData'],
+  ['get', '/api/get-biddable-items', 'getBiddableItems'],
   ['get', '/api/get-contents/[:language]', 'getContents'],
   ['post', '/api/sign-in', 'signIn'],
+  ['post', '/api/submit-bid', 'submitBid'],
   ['post', '/api/submit-rec', 'submitRec']
 ]);
 
