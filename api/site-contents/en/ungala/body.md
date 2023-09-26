@@ -49,4 +49,17 @@ Good News if you can't attend Gala FAAN-TASTICA, you can still get in on our Auc
   ul li{
     margin-left: 3rem;
   }
+
+  .wowza-image {
+    float: right;
+    width: 35vw;
+    margin: 2rem;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .wowza-image {
+      width: 75vw;
+    }
+  }
+
 </style>
