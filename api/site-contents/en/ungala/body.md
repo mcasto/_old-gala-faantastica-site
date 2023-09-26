@@ -23,6 +23,8 @@ But there's more! Our generous FAAN Mystery Donor has put forth yet another chal
 
 Our Mr. X will double your donation and ticket for the UnGALA Gala for the dogs with 100% of your donation going toward the building of the new shelter!
 
+<img src="/images/ungala/wowza.jpeg" class="wowza-image" />
+
 <div class='text-h4 mb-2'>Wowza! Bowza! Double Your Impact!</div>
 
 Donate $50, and Mr. X will double that to $100, granting you a place on our donor wall among FAAN's Bronze Circle of Benefactors.
