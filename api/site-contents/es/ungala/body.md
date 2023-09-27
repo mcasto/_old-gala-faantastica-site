@@ -37,8 +37,6 @@ Escríbenos a <a href="mailto:info@FAANecuador.org">info@FAANecuador.org</a> par
 
 Buenas noticias si no puede asistir a la Gala FAAN-TASTICA, todavía puede participar en nuestra Subasta Palooza con algunos artículos de subasta disponibles en línea, lo que significa que puede introducir sus pujas desde cualquier lugar. Adivina qué, ¡esas pujas también se duplicarán para los perros de FAAN!
 
-<div class='text-h6'>¡Haga clic en <a href="/auction-preview">AQUÍ</a> para obtener una vista previa y pujar en nuestra Subasta Palooza!</div>
-
 <style>
   ul li{
     margin-left: 3rem;
