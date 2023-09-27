@@ -43,8 +43,6 @@ Write us at <a href="mailto:info@FAANecuador.org">info@FAANecuador.org</a> for y
 
 Good News if you can't attend Gala FAAN-TASTICA, you can still get in on our Auction Palooza with a few auction items available online, meaning youcan enter your bids fromm anywhere. Guess what, those bids will _also_ be doubled for the dogs of FAAN!
 
-<div class='text-h6'>Click <a href="/auction-preview">HERE</a> for a Preview and Bidding at our Auction Palooza!</div>
-
 <style>
   ul li{
     margin-left: 3rem;
