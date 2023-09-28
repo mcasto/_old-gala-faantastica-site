@@ -1,3 +1,4 @@
-- Tickets for this elegant evening are $60.00 for Gala Admission or $85.00, which includes the additional VIP Champagne Hour.
-- Tables are for Eight. If you would like to reserve an Ambassador Table, share with us a name and theme of your table. Ambassadors are gifted with their table Centerpiece at the end of the evening.
-- The Entrée for the Evening includes a Chicken and Beef dish; a Vegetarian option is also available with your reservation.
+### What time do we get this PAW-TY started?
+
+  - The VIP Champagne and Entertainment Hour beings at 6:30
+  - The Gala Begins at 7;30 and the Live Entertainment will be continuous all Evening!

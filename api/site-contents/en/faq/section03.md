@@ -1,5 +1,3 @@
-- The VIP Champagne Hour is from 6:30 - 7:30 with your VIP Ticket.
-- Event Location: Estancia Rosario is located near Hospital Del Rio
-  - Google Map Coordinates: 424R+X8W, Cuenca
-  - Phone: 098 386 6089
-- For additional information on sponsorship, tickets, and the auction, contact [FAAN Gala Committee](/contact)
+### Will Transportation be Available?
+
+  - FAAN has made arrangements to have taxi service available at the end of the evening.
