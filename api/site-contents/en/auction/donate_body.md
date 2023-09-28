@@ -1,1 +1,0 @@
-All of our Auction Contributors will be promoted in the FAAN program and magazine that highlights those businesses and individuals working to make Cuenca known as the "City that Cares" about Animal Welfare.

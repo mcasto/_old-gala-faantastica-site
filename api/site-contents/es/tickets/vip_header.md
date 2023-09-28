@@ -1,1 +1,0 @@
-Hora VIP del champán

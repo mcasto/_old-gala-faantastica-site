@@ -1,1 +1,0 @@
-Todo gira en torno a los perros

@@ -1,5 +1,0 @@
-- La hora VIP del champán es de 6:30 - 7:30 con su entrada VIP.
-- Ubicación del evento: Estancia Rosario se encuentra cerca del Hospital Del Rio
-  - Coordenadas de Google Map: 424R+X8W, Cuenca
-  - Tel: 098 386 6089
-- Para más información sobre patrocinio, entradas y la subasta, póngase en contacto con [FAAN Gala Committee](/contact)

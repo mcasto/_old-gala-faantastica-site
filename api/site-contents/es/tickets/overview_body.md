@@ -1,6 +1,0 @@
-- Bebida de bienvenida y tabla de quesos
-- Música en directo
-- Barra libre toda la noche
-- Cena formal (pollo y ternera con opción vegetariana)
-- Subasta silenciosa y en vivo
-- Entretenimiento FAAN-TASTICA
