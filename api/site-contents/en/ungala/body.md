@@ -37,11 +37,14 @@ Of course, you can donate more, and Mr. X will match that generous gift too!
 
 Write us at <a href="mailto:info@FAANecuador.org">info@FAANecuador.org</a> for your UnGALA GALA virtual ticket. Let us know we won't see you there, but you have a gift for the dogs. Please indicate the amount of your gift and payment method. Remember, our Mr. X will double your donation through the end of October up to $20,000!
 
+<img src="/images/ungala/donation-qr-code.jpeg" height="200" style='float:right' />
 <div class='text-h6'>Here's your Quick Credit Card Donation Link for our UnGala Gala FAANTASTICA TICKETS</div>
+<div class='mb-8'>
+  <a href="https://amicicannis1.ddock.gives/?givingPageId=6ff04c25-d4a1-42bd-8445-dd55f8e9526d">UnGala GALA Tickets & Donations</a>
+</div>
 
-<a href="https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4">UnGala GALA Tickets & Donations</a>
 
-Good News if you can't attend Gala FAAN-TASTICA, you can still get in on our Auction Palooza with a few auction items available online, meaning youcan enter your bids fromm anywhere. Guess what, those bids will _also_ be doubled for the dogs of FAAN!
+Good News if you can't attend Gala FAAN-TASTICA, you can still get in on our Auction Palooza with a few auction items available online, meaning you can enter your bids fromm anywhere. Guess what, those bids will _also_ be doubled for the dogs of FAAN!
 
 <style>
   ul li{

@@ -30,10 +30,11 @@ Por supuesto, puede donar más y el Sr. X igualará esa generosa donación.
 
 Escríbenos a <a href="mailto:info@FAANecuador.org">info@FAANecuador.org</a> para conseguir tu entrada virtual para UnGALA GALA. Haznos saber que no te veremos allí, pero que tienes un regalo para los perros. Indícanos el importe de tu regalo y la forma de pago. Recuerda que nuestro Sr. X duplicará tu donación hasta finales de octubre ¡hasta 20.000 dólares!
 
+<img src="/images/ungala/donation-qr-code.jpeg" height="200" style='float:right' />
 <div class='text-h6'>Aquí está su enlace de donación rápida con tarjeta de crédito para nuestra Gala UnGala FAANTASTICA ENTRADAS</div>
-
-<a href="https://amicicannis1.ddock.gives/?givingPageId=e2d53e73-039f-4b81-acf7-5632a0c753e4">UnGala GALA Entradas & Donaciones
-</a>
+<div class='mb-8'>
+  <a href="https://amicicannis1.ddock.gives/?givingPageId=6ff04c25-d4a1-42bd-8445-dd55f8e9526d">UnGala GALA Entradas & Donaciones</a>
+</div>
 
 Buenas noticias si no puede asistir a la Gala FAAN-TASTICA, todavía puede participar en nuestra Subasta Palooza con algunos artículos de subasta disponibles en línea, lo que significa que puede introducir sus pujas desde cualquier lugar. Adivina qué, ¡esas pujas también se duplicarán para los perros de FAAN!
 
