@@ -4,3 +4,4 @@ md-*.txt
 md_*.php
 admin.db
 sendgrid.key
+.DS_Store
