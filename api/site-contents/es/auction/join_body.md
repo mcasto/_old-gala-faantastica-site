@@ -1,1 +1,0 @@
-¿Quieres ayudar, donar o saber más sobre lo que estamos haciendo?

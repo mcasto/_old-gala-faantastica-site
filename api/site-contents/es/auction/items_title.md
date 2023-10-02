@@ -1,1 +1,0 @@
-Una plétora de artículos de subasta silenciosa y en vivo

@@ -1,3 +1,0 @@
-Gala FAAN-TASTICA
-
-Entretenimiento

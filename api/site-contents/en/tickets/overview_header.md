@@ -1,1 +1,0 @@
-Gala FAAN-TASTICA
