@@ -5,6 +5,7 @@ use Castoware\Request;
 use Castoware\Util;
 
 ini_set("error_log", __DIR__ . '/error.log');
+date_default_timezone_set('America/Guayaquil');
 
 require_once("vendor/autoload.php");
 $router = new AltoRouter();
@@ -16,11 +17,15 @@ $db = $database->db;
 require_once(__DIR__ . '/methods/index.php');
 
 $router->addRoutes([
+  ['get', '/api/get-thumb', 'getThumb'],
   ['get', '/api/get-admin-data', 'getAdminData'],
   ['get', '/api/get-biddable-items', 'getBiddableItems'],
+  ['get', '/api/get-buy-now', 'getBuyNow'],
   ['get', '/api/get-contents/[:language]', 'getContents'],
+  ['get', '/api/get-gallery', 'getGallery'],
   ['post', '/api/sign-in', 'signIn'],
   ['post', '/api/submit-bid', 'submitBid'],
+  ['post', '/api/submit-order', 'submitOrder'],
   ['post', '/api/submit-rec', 'submitRec']
 ]);
 

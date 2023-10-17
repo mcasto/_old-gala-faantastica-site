@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4ece58107222d02a23a9c6b042c9317b",
+    "content-hash": "bbc7ae8ac9d249c4e999c2a229a8884a",
     "packages": [
         {
             "name": "altorouter/altorouter",
@@ -344,6 +344,51 @@
                 "source": "https://github.com/starkbank/ecdsa-php/tree/v0.0.5"
             },
             "time": "2021-06-06T22:24:49+00:00"
+        },
+        {
+            "name": "zeus/image",
+            "version": "1.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/diloabininyeri/Image-resize.git",
+                "reference": "d1e2ef5ebdb5fb8e154cef33103ab319d7b5182a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/diloabininyeri/Image-resize/zipball/d1e2ef5ebdb5fb8e154cef33103ab319d7b5182a",
+                "reference": "d1e2ef5ebdb5fb8e154cef33103ab319d7b5182a",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Image\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "dılo sürücü",
+                    "email": "berxudar@gmail.com"
+                }
+            ],
+            "description": "image resize  and create thumbnail",
+            "keywords": [
+                "gd",
+                "image",
+                "library",
+                "php",
+                "resize",
+                "thumbnail"
+            ],
+            "support": {
+                "issues": "https://github.com/diloabininyeri/Image-resize/issues",
+                "source": "https://github.com/diloabininyeri/Image-resize/tree/master"
+            },
+            "time": "2018-05-17T13:09:49+00:00"
         }
     ],
     "packages-dev": [],

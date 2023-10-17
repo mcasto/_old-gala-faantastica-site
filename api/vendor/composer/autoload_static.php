@@ -20,6 +20,10 @@ class ComposerStaticInitf434efa2c8a8bc12628a1cbe88a2707b
             'SendGrid\\Contacts\\' => 18,
             'SendGrid\\' => 9,
         ),
+        'I' => 
+        array (
+            'Image\\' => 6,
+        ),
         'C' => 
         array (
             'Cocur\\Chain\\' => 12,
@@ -51,6 +55,10 @@ class ComposerStaticInitf434efa2c8a8bc12628a1cbe88a2707b
         'SendGrid\\' => 
         array (
             0 => __DIR__ . '/..' . '/sendgrid/php-http-client/lib',
+        ),
+        'Image\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zeus/image/src',
         ),
         'Cocur\\Chain\\' => 
         array (
