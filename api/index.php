@@ -26,7 +26,9 @@ $router->addRoutes([
   ['post', '/api/sign-in', 'signIn'],
   ['post', '/api/submit-bid', 'submitBid'],
   ['post', '/api/submit-order', 'submitOrder'],
-  ['post', '/api/submit-rec', 'submitRec']
+  ['post', '/api/submit-rec', 'submitRec'],
+  ['post', '/api/password-reset', 'passwordReset'],
+  ['post', '/api/get-password-reset-token', 'getPasswordResetToken']
 ]);
 
 $match = $router->match();
